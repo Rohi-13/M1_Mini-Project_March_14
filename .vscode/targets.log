@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Mar 28 21:04:22 2022
+# Make data base, printed on Mon Mar 28 21:21:20 2022
 
 # Variables
 
@@ -21,7 +21,7 @@ GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
 SSH_AGENT_LAUNCHER = gnome-keyring
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-97a9bea9-5548-4533-ba7e-ec738b41f4a2.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-ba1df320-0361-4c00-9ad6-4d2d54faf463.sock
 # environment
 VSCODE_CWD = /home/rohini
 # default
@@ -91,7 +91,7 @@ MAKEFILE_LIST :=
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 9253
+VSCODE_PID = 10632
 # environment
 XDG_SESSION_TYPE = wayland
 # automatic
@@ -177,7 +177,7 @@ MANAGERPID = 1537
 # environment
 DBUS_STARTER_BUS_TYPE = session
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 9253
+GIO_LAUNCHED_DESKTOP_FILE_PID = 10632
 # environment
 _ = /usr/share/code/code
 # environment
@@ -277,6 +277,6 @@ GNUmakefile:
 # strcache performance: lookups = 19 / hit rate = 15%
 # hash-table stats:
 # Load=16/8192=0%, Rehash=0, Collisions=0/19=0%
-# Finished Make data base on Mon Mar 28 21:04:22 2022
+# Finished Make data base on Mon Mar 28 21:21:20 2022
 
  
