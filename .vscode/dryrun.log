@@ -1,6 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/rohini/Documents/GitHub Repo/M1_Mini-Project_March_14'
-make: Leaving directory '/home/rohini/Documents/GitHub Repo/M1_Mini-Project_March_14'
- 
-make: *** No targets specified and no makefile found.  Stop.
- 
